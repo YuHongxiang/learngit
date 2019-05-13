@@ -3,3 +3,4 @@ Git is free software.
 Git tracks changes changes of files.
 My stupid boss still prefers SVN.
 we are good boy
+Creating a new branch is quick.
